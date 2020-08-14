@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1597369690037.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4FC5D8BD",
+    "lastKnownWriteTime" : 1597252959,
+    "last_content_update" : 1597252959,
+    "path" : "D:/Mental Health Proj/Rcode/Mentalhealth_analysis.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "3,40",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
